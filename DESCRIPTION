@@ -1,12 +1,16 @@
 Package: nusandata
-Title: What the Package Does (One Line, Title Case)
+Title: Kumpulan Data dari Portal Satu Data Indonesia
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Muhammad Aswan",
            family = "Syahputra",
            role = c("aut", "cre"),
            email = "aswansyahputra@sensolution.id")
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+Description: Bertujuan untuk menghimpun data dari Portal Satu Data Indonesia dan membuatnya agar dapat digunakan sebagai paket di R.
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    tibble
+RoxygenNote: 6.1.1
+URL: https://github.com/aswansyahputra/nusandata
+BugReports: https://github.com/aswansyahputra/nusandata/issues
