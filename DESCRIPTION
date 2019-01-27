@@ -9,8 +9,11 @@ Authors@R:
 Description: Bertujuan untuk menghimpun data dari Portal Satu Data Indonesia dan membuatnya agar dapat digunakan sebagai paket di R.
 Encoding: UTF-8
 LazyData: true
+Depends:
+   R (>= 3.4)
 Suggests: 
     tibble
 RoxygenNote: 6.1.1
 URL: https://github.com/aswansyahputra/nusandata
 BugReports: https://github.com/aswansyahputra/nusandata/issues
+License: CC4

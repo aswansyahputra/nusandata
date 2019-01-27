@@ -12,6 +12,7 @@ library(lubridate)
 library(hms)
 
 pgn_kekeringan <- read_csv("data-raw/pangan/pgn_kekeringan.csv", na = c("", " ", "-"))
+pgn_kekeringan
 pgn_kekeringan <-
   pgn_kekeringan %>%
   janitor::clean_names() %>%

@@ -1,0 +1,1 @@
+Ciptaan ini dilisensikan di bawah lisensi Creative Commons Atribusi 4.0 Internasional. Untuk melihat salinan lisensi ini, kunjungi http://creativecommons.org/licenses/by/4.0/ atau kirim surat ke Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
