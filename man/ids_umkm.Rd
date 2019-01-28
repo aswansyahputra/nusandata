@@ -4,7 +4,19 @@
 \name{ids_umkm}
 \alias{ids_umkm}
 \title{Perkembangan Usaha Mikro Kecil dan Menengah (UMKM)}
-\format{An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 16 rows and 9 columns.}
+\format{Dataframe dengan 16 baris dan 9 kolom
+
+\describe{
+  \item{tahun}{Tahun}
+  \item{jumlah}{Jumlah UMKM}
+  \item{pertumbuhan_jumla}{Pertumbuhan jumlah UMKM (persen)}
+  \item{jumlah_tenaga_kerja}{Jumlah tenaga kerja UMKM (orang)}
+  \item{pertumbuhan_jumlah_tenaga_kerja}{Pertumbuhan jumlah tenaga kerja UMKM (persen)}
+  \item{sumbangan_pdb}{Sumbangan PDB UMKM (harga konstan, Rp. Miliar)}
+  \item{sumbangan_pdb}{Pertumbuhan sumbangan PDB UMKM (persen)}
+  \item{nilai_ekspor}{Nilai ekspor UMKM (Rp. Miliar)}
+  \item{pertumbuhan_nilai_ekspor}{Pertumbuhan nilai ekspor UMKM (persen)}
+}}
 \source{
 Portal Satu Data Indonesia \url{https://data.go.id/dataset/perkembangan-usaha-mikro-kecil-dan-menengah-umkm}
 }

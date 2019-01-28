@@ -7,13 +7,13 @@
 #' \describe{
 #'   \item{tahun}{Tahun}
 #'   \item{jumlah}{Jumlah UMKM}
-#'   \item{pertumbuhan_jumla}{Pertumbuhan jumlah UMKM (%)}
+#'   \item{pertumbuhan_jumla}{Pertumbuhan jumlah UMKM (persen)}
 #'   \item{jumlah_tenaga_kerja}{Jumlah tenaga kerja UMKM (orang)}
 #'   \item{pertumbuhan_jumlah_tenaga_kerja}{Pertumbuhan jumlah tenaga kerja UMKM (persen)}
 #'   \item{sumbangan_pdb}{Sumbangan PDB UMKM (harga konstan, Rp. Miliar)}
-#'   \item{sumbangan_pdb}{Pertumbuhan sumbangan PDB UMKM (%)}
+#'   \item{sumbangan_pdb}{Pertumbuhan sumbangan PDB UMKM (persen)}
 #'   \item{nilai_ekspor}{Nilai ekspor UMKM (Rp. Miliar)}
-#'   \item{pertumbuhan_nilai_ekspor}{Pertumbuhan nilai ekspor UMKM (%)}
+#'   \item{pertumbuhan_nilai_ekspor}{Pertumbuhan nilai ekspor UMKM (persen)}
 #' }
 #'
 #' @source Portal Satu Data Indonesia \url{https://data.go.id/dataset/perkembangan-usaha-mikro-kecil-dan-menengah-umkm}
