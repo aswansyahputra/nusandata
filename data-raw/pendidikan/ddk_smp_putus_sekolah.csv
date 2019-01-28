@@ -1,0 +1,133 @@
+kode_provinsi,nama_provinsi,tahun,jumlah_putus_sekolah,persen_putus_sekolah
+11,"Prov. Nanggroe Aceh Darussalam",2008,8563,3.932997
+11,"Prov. Nanggroe Aceh Darussalam",2009,746,.3488214
+11,"Prov. Nanggroe Aceh Darussalam",2010,7236,3.377946
+11,"Prov. Nanggroe Aceh Darussalam",2011,2699,1.332188
+12,"Prov. Sumatera Utara",2008,15925,2.476753
+12,"Prov. Sumatera Utara",2009,152,.0230475
+12,"Prov. Sumatera Utara",2010,12608,1.868688
+12,"Prov. Sumatera Utara",2011,4925,.7873877
+13,"Prov. Sumatera Barat",2008,3767,1.868477
+13,"Prov. Sumatera Barat",2009,75,.0357407
+13,"Prov. Sumatera Barat",2010,2355,1.046671
+13,"Prov. Sumatera Barat",2011,3093,1.49289
+14,"Prov. Riau",2008,5903,3.28598
+14,"Prov. Riau",2009,11501,5.962095
+14,"Prov. Riau",2010,5611,2.858919
+14,"Prov. Riau",2011,2556,1.166324
+15,"Prov. Jambi",2008,4300,4.056642
+15,"Prov. Jambi",2009,1010,.9135972
+15,"Prov. Jambi",2010,3944,3.420227
+15,"Prov. Jambi",2011,3407,2.866421
+16,"Prov. Sumatera Selatan",2008,5389,1.738376
+16,"Prov. Sumatera Selatan",2009,7446,2.343956
+16,"Prov. Sumatera Selatan",2010,4608,1.451531
+16,"Prov. Sumatera Selatan",2011,7560,2.353161
+17,"Prov. Bengkulu",2008,2105,2.565822
+17,"Prov. Bengkulu",2009,2245,2.648968
+17,"Prov. Bengkulu",2010,1544,1.808661
+17,"Prov. Bengkulu",2011,2111,2.45957
+18,"Prov. Lampung",2008,11030,3.787176
+18,"Prov. Lampung",2009,10830,3.587827
+18,"Prov. Lampung",2010,9767,3.096595
+18,"Prov. Lampung",2011,5102,1.633225
+19,"Prov. Kepulauan Bangka Belitung",2008,1787,4.402128
+19,"Prov. Kepulauan Bangka Belitung",2009,1074,2.514104
+19,"Prov. Kepulauan Bangka Belitung",2010,1494,3.446049
+19,"Prov. Kepulauan Bangka Belitung",2011,1045,2.385028
+21,"Prov. Kepulauan Riau",2008,2269,4.80415
+21,"Prov. Kepulauan Riau",2009,446,.8680251
+21,"Prov. Kepulauan Riau",2010,2238,3.868559
+21,"Prov. Kepulauan Riau",2011,1415,2.344074
+31,"Prov. DKI Jakarta",2008,2510,.6580811
+31,"Prov. DKI Jakarta",2009,5641,1.473769
+31,"Prov. DKI Jakarta",2010,1951,.5089729
+31,"Prov. DKI Jakarta",2011,2033,.5957788
+32,"Prov. Jawa Barat",2008,38779,2.960462
+32,"Prov. Jawa Barat",2009,75416,5.293053
+32,"Prov. Jawa Barat",2010,31282,2.105853
+32,"Prov. Jawa Barat",2011,23903,1.452884
+33,"Prov. Jawa Tengah",2008,18780,1.527563
+33,"Prov. Jawa Tengah",2009,8000,.6330236
+33,"Prov. Jawa Tengah",2010,6161,.4767284
+33,"Prov. Jawa Tengah",2011,7586,.6376837
+34,"Prov. D I Yogyakarta",2008,1726,1.252676
+34,"Prov. D I Yogyakarta",2009,328,.2420146
+34,"Prov. D I Yogyakarta",2010,300,.2243729
+34,"Prov. D I Yogyakarta",2011,464,.3769936
+35,"Prov. Jawa Timur",2008,15769,1.365452
+35,"Prov. Jawa Timur",2009,16618,1.393725
+35,"Prov. Jawa Timur",2010,13218,1.084416
+35,"Prov. Jawa Timur",2011,14783,1.215875
+36,"Prov. Banten",2008,5304,1.563933
+36,"Prov. Banten",2009,18132,5.035562
+36,"Prov. Banten",2010,4439,1.201265
+36,"Prov. Banten",2011,8965,2.304864
+51,"Prov. Bali",2008,4466,2.88423
+51,"Prov. Bali",2009,510,.3051645
+51,"Prov. Bali",2010,2909,1.682826
+51,"Prov. Bali",2011,1730,.9641374
+52,"Prov. Nusa Tenggara Barat",2008,4012,2.520211
+52,"Prov. Nusa Tenggara Barat",2009,3730,2.26818
+52,"Prov. Nusa Tenggara Barat",2010,2278,1.37324
+52,"Prov. Nusa Tenggara Barat",2011,1769,1.035387
+53,"Prov. Nusa Tenggara Timur",2008,13401,6.610563
+53,"Prov. Nusa Tenggara Timur",2009,1786,.8391556
+53,"Prov. Nusa Tenggara Timur",2010,13462,5.984893
+53,"Prov. Nusa Tenggara Timur",2011,18010,6.629684
+61,"Prov. Kalimantan Barat",2008,10635,5.870631
+61,"Prov. Kalimantan Barat",2009,1834,.9858784
+61,"Prov. Kalimantan Barat",2010,10103,5.216902
+61,"Prov. Kalimantan Barat",2011,7306,3.699147
+62,"Prov. Kalimantan Tengah",2008,2668,3.811755
+62,"Prov. Kalimantan Tengah",2009,202,.2656043
+62,"Prov. Kalimantan Tengah",2010,1955,2.354627
+62,"Prov. Kalimantan Tengah",2011,2384,2.885185
+63,"Prov. Kalimantan Selatan",2008,4619,4.191851
+63,"Prov. Kalimantan Selatan",2009,2411,2.213389
+63,"Prov. Kalimantan Selatan",2010,3513,3.260779
+63,"Prov. Kalimantan Selatan",2011,2716,2.632599
+64,"Prov. Kalimantan Timur",2008,3159,2.222488
+64,"Prov. Kalimantan Timur",2009,2165,1.477664
+64,"Prov. Kalimantan Timur",2010,1908,1.307288
+64,"Prov. Kalimantan Timur",2011,2260,1.507943
+71,"Prov. Sulawesi Utara",2008,3420,3.436875
+71,"Prov. Sulawesi Utara",2009,55,.0516185
+71,"Prov. Sulawesi Utara",2010,2713,2.368998
+71,"Prov. Sulawesi Utara",2011,1470,1.343693
+72,"Prov. Sulawesi Tengah",2008,4805,5.319031
+72,"Prov. Sulawesi Tengah",2009,2693,2.898317
+72,"Prov. Sulawesi Tengah",2010,4446,4.623256
+72,"Prov. Sulawesi Tengah",2011,3341,2.927312
+73,"Prov. Sulawesi Selatan",2008,6913,2.204893
+73,"Prov. Sulawesi Selatan",2009,2328,.7047904
+73,"Prov. Sulawesi Selatan",2010,3695,1.073925
+73,"Prov. Sulawesi Selatan",2011,4860,1.323065
+74,"Prov. Sulawesi Tenggara",2008,501,.4815826
+74,"Prov. Sulawesi Tenggara",2009,1895,1.707853
+74,"Prov. Sulawesi Tenggara",2010,780,.6830781
+74,"Prov. Sulawesi Tenggara",2011,1927,1.65341
+75,"Prov. Gorontalo",2008,1794,4.567093
+75,"Prov. Gorontalo",2009,1861,4.274722
+75,"Prov. Gorontalo",2010,1683,3.806228
+75,"Prov. Gorontalo",2011,716,1.66326
+76,"Prov. Sulawesi Barat",2008,774,1.872143
+76,"Prov. Sulawesi Barat",2009,53,.1110064
+76,"Prov. Sulawesi Barat",2010,499,1.001606
+76,"Prov. Sulawesi Barat",2011,671,1.218914
+81,"Prov. Maluku",2008,3625,4.755533
+81,"Prov. Maluku",2009,1382,1.655288
+81,"Prov. Maluku",2010,2920,3.320144
+81,"Prov. Maluku",2011,1714,1.885651
+82,"Prov. Maluku Utara",2008,1270,3.179531
+82,"Prov. Maluku Utara",2009,13,.0297136
+82,"Prov. Maluku Utara",2010,1024,2.147156
+82,"Prov. Maluku Utara",2011,890,1.606353
+91,"Prov. Papua Barat",2008,927,3.47738
+91,"Prov. Papua Barat",2009,136,.4331348
+91,"Prov. Papua Barat",2010,562,1.577411
+91,"Prov. Papua Barat",2011,1050,2.820988
+94,"Prov. Papua",2008,3880,4.233635
+94,"Prov. Papua",2009,2617,2.734759
+94,"Prov. Papua",2010,3122,3.169865
+94,"Prov. Papua",2011,2410,2.376023

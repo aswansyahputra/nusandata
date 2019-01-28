@@ -1,0 +1,100 @@
+kode_provinsi,nama_provinsi,status_jamban,jumlah_rumah_tangga
+11,"Prov. Nanggroe Aceh Darussalam","Jamban Bersama/Umum",75019
+11,"Prov. Nanggroe Aceh Darussalam","Jamban Sendiri",129048
+11,"Prov. Nanggroe Aceh Darussalam","Tidak ada",184233
+12,"Prov. Sumatera Utara","Jamban Bersama/Umum",151645
+12,"Prov. Sumatera Utara","Jamban Sendiri",440540
+12,"Prov. Sumatera Utara","Tidak ada",249008
+13,"Prov. Sumatera Barat","Jamban Bersama/Umum",62472
+13,"Prov. Sumatera Barat","Jamban Sendiri",66522
+13,"Prov. Sumatera Barat","Tidak ada",166440
+14,"Prov. Riau","Jamban Bersama/Umum",33511
+14,"Prov. Riau","Jamban Sendiri",173893
+14,"Prov. Riau","Tidak ada",50123
+15,"Prov. Jambi","Jamban Bersama/Umum",38508
+15,"Prov. Jambi","Jamban Sendiri",84903
+15,"Prov. Jambi","Tidak ada",62442
+16,"Prov. Sumatera Selatan","Jamban Bersama/Umum",113303
+16,"Prov. Sumatera Selatan","Jamban Sendiri",199429
+16,"Prov. Sumatera Selatan","Tidak ada",173357
+17,"Prov. Bengkulu","Jamban Bersama/Umum",17610
+17,"Prov. Bengkulu","Jamban Sendiri",56393
+17,"Prov. Bengkulu","Tidak ada",58207
+18,"Prov. Lampung","Jamban Bersama/Umum",111847
+18,"Prov. Lampung","Jamban Sendiri",414815
+18,"Prov. Lampung","Tidak ada",123729
+19,"Prov. Kepulauan Bangka Belitung","Jamban Bersama/Umum",3948
+19,"Prov. Kepulauan Bangka Belitung","Jamban Sendiri",18859
+19,"Prov. Kepulauan Bangka Belitung","Tidak ada",23512
+21,"Prov. Kepulauan Riau","Jamban Bersama/Umum",8964
+21,"Prov. Kepulauan Riau","Jamban Sendiri",53646
+21,"Prov. Kepulauan Riau","Tidak ada",9882
+31,"Prov. DKI Jakarta","Jamban Bersama/Umum",120409
+31,"Prov. DKI Jakarta","Jamban Sendiri",145798
+31,"Prov. DKI Jakarta","Tidak ada",5908
+32,"Prov. Jawa Barat","Jamban Bersama/Umum",1258261
+32,"Prov. Jawa Barat","Jamban Sendiri",1206008
+32,"Prov. Jawa Barat","Tidak ada",854475
+33,"Prov. Jawa Tengah","Jamban Bersama/Umum",769119
+33,"Prov. Jawa Tengah","Jamban Sendiri",1289310
+33,"Prov. Jawa Tengah","Tidak ada",1052071
+34,"Prov. D I Yogyakarta","Jamban Bersama/Umum",78915
+34,"Prov. D I Yogyakarta","Jamban Sendiri",239413
+34,"Prov. D I Yogyakarta","Tidak ada",42782
+35,"Prov. Jawa Timur","Jamban Bersama/Umum",919963
+35,"Prov. Jawa Timur","Jamban Sendiri",1362960
+35,"Prov. Jawa Timur","Tidak ada",1325875
+36,"Prov. Banten","Jamban Bersama/Umum",121188
+36,"Prov. Banten","Jamban Sendiri",153113
+36,"Prov. Banten","Tidak ada",355616
+51,"Prov. Bali","Jamban Bersama/Umum",47713
+51,"Prov. Bali","Jamban Sendiri",63035
+51,"Prov. Bali","Tidak ada",83799
+52,"Prov. Nusa Tenggara Barat","Jamban Bersama/Umum",96744
+52,"Prov. Nusa Tenggara Barat","Jamban Sendiri",79695
+52,"Prov. Nusa Tenggara Barat","Tidak ada",334018
+53,"Prov. Nusa Tenggara Timur","Jamban Bersama/Umum",46198
+53,"Prov. Nusa Tenggara Timur","Jamban Sendiri",227134
+53,"Prov. Nusa Tenggara Timur","Tidak ada",176097
+61,"Prov. Kalimantan Barat","Jamban Bersama/Umum",33876
+61,"Prov. Kalimantan Barat","Jamban Sendiri",83601
+61,"Prov. Kalimantan Barat","Tidak ada",140622
+62,"Prov. Kalimantan Tengah","Jamban Bersama/Umum",35510
+62,"Prov. Kalimantan Tengah","Jamban Sendiri",28742
+62,"Prov. Kalimantan Tengah","Tidak ada",28098
+63,"Prov. Kalimantan Selatan","Jamban Bersama/Umum",67392
+63,"Prov. Kalimantan Selatan","Jamban Sendiri",58026
+63,"Prov. Kalimantan Selatan","Tidak ada",56913
+64,"Prov. Kalimantan Timur","Jamban Bersama/Umum",31673
+64,"Prov. Kalimantan Timur","Jamban Sendiri",105101
+64,"Prov. Kalimantan Timur","Tidak ada",32144
+71,"Prov. Sulawesi Utara","Jamban Bersama/Umum",39929
+71,"Prov. Sulawesi Utara","Jamban Sendiri",70767
+71,"Prov. Sulawesi Utara","Tidak ada",63439
+72,"Prov. Sulawesi Tengah","Jamban Bersama/Umum",27236
+72,"Prov. Sulawesi Tengah","Jamban Sendiri",44756
+72,"Prov. Sulawesi Tengah","Tidak ada",150496
+73,"Prov. Sulawesi Selatan","Jamban Bersama/Umum",79202
+73,"Prov. Sulawesi Selatan","Jamban Sendiri",192366
+73,"Prov. Sulawesi Selatan","Tidak ada",268671
+74,"Prov. Sulawesi Tenggara","Jamban Bersama/Umum",19124
+74,"Prov. Sulawesi Tenggara","Jamban Sendiri",60663
+74,"Prov. Sulawesi Tenggara","Tidak ada",96412
+75,"Prov. Gorontalo","Jamban Bersama/Umum",23227
+75,"Prov. Gorontalo","Jamban Sendiri",6491
+75,"Prov. Gorontalo","Tidak ada",70008
+76,"Prov. Sulawesi Barat","Jamban Bersama/Umum",9111
+76,"Prov. Sulawesi Barat","Jamban Sendiri",14456
+76,"Prov. Sulawesi Barat","Tidak ada",60291
+81,"Prov. Maluku","Jamban Bersama/Umum",18518
+81,"Prov. Maluku","Jamban Sendiri",33221
+81,"Prov. Maluku","Tidak ada",77384
+82,"Prov. Maluku Utara","Jamban Bersama/Umum",16880
+82,"Prov. Maluku Utara","Jamban Sendiri",13661
+82,"Prov. Maluku Utara","Tidak ada",30468
+91,"Prov. Papua Barat","Jamban Bersama/Umum",28277
+91,"Prov. Papua Barat","Jamban Sendiri",41823
+91,"Prov. Papua Barat","Tidak ada",22746
+94,"Prov. Papua","Jamban Bersama/Umum",71522
+94,"Prov. Papua","Jamban Sendiri",160660
+94,"Prov. Papua","Tidak ada",213939
