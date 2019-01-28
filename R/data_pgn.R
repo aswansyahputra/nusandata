@@ -1,7 +1,7 @@
 #'  Data Bencana Kekeringan
 #'
 #' Dataset ini berisi mengenai data bencana kekeringan beserta keterangannya
-#' @format Dataframe dengan 23 baris dan 10 kolom
+#' @format Dataframe dengan 23 baris dan 9 kolom
 #'
 #' \describe{
 #'   \item{bencana}{Jenis bencana}

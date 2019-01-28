@@ -1,0 +1,386 @@
+tahun,kuartal,jenis_pengeluaran,nilai
+2000,"Q1","Konsumsi - Rumah tangga",203573
+2000,"Q1","Konsumsi - Pemerintah",20210.7
+2000,"Q1","Pembentukan Modal Tetap Domestik Bruto",61820.7
+2000,"Q1","Perubahan Inventori",8051.9
+2000,"Q1","Diskrepansi Statistik",-1471.02
+2000,"Q1","Ekspor barang dan jasa",112668.1
+2000,"Q1","Impor barang dan jasa  (dalam angka negatif)",-78894.75
+2000,"Q2","Konsumsi - Rumah tangga",210782.3
+2000,"Q2","Konsumsi - Pemerintah",24556.8
+2000,"Q2","Pembentukan Modal Tetap Domestik Bruto",65631.7
+2000,"Q2","Perubahan Inventori",10026.9
+2000,"Q2","Diskrepansi Statistik",-19822.2
+2000,"Q2","Ekspor barang dan jasa",136032.6
+2000,"Q2","Impor barang dan jasa  (dalam angka negatif)",-90240.96
+2000,"Q3","Konsumsi - Rumah tangga",213454.7
+2000,"Q3","Konsumsi - Pemerintah",21950.8
+2000,"Q3","Pembentukan Modal Tetap Domestik Bruto",70773.9
+2000,"Q3","Perubahan Inventori",6341.1
+2000,"Q3","Diskrepansi Statistik",2442.23
+2000,"Q3","Ekspor barang dan jasa",158536.8
+2000,"Q3","Impor barang dan jasa  (dalam angka negatif)",-112798
+2000,"Q4","Konsumsi - Rumah tangga",228988.3
+2000,"Q4","Konsumsi - Pemerintah",24061.4
+2000,"Q4","Pembentukan Modal Tetap Domestik Bruto",77654.9
+2000,"Q4","Perubahan Inventori",8862.9
+2000,"Q4","Diskrepansi Statistik",5706.48
+2000,"Q4","Ekspor barang dan jasa",162252.8
+2000,"Q4","Impor barang dan jasa  (dalam angka negatif)",-141384.2
+2001,"Q1","Konsumsi - Rumah tangga",236495.7
+2001,"Q1","Konsumsi - Pemerintah",23467.9
+2001,"Q1","Pembentukan Modal Tetap Domestik Bruto",82076.7
+2001,"Q1","Perubahan Inventori",18150.8
+2001,"Q1","Diskrepansi Statistik",2158.46
+2001,"Q1","Ekspor barang dan jasa",162546.9
+2001,"Q1","Impor barang dan jasa  (dalam angka negatif)",-138247.7
+2001,"Q2","Konsumsi - Rumah tangga",251148.1
+2001,"Q2","Konsumsi - Pemerintah",27370.4
+2001,"Q2","Pembentukan Modal Tetap Domestik Bruto",82793.8
+2001,"Q2","Perubahan Inventori",16676
+2001,"Q2","Diskrepansi Statistik",4367.72
+2001,"Q2","Ekspor barang dan jasa",179340.5
+2001,"Q2","Impor barang dan jasa  (dalam angka negatif)",-145626.7
+2001,"Q3","Konsumsi - Rumah tangga",261725.6
+2001,"Q3","Konsumsi - Pemerintah",29754.3
+2001,"Q3","Pembentukan Modal Tetap Domestik Bruto",77185.1
+2001,"Q3","Perubahan Inventori",14183.5
+2001,"Q3","Diskrepansi Statistik",2745.13
+2001,"Q3","Ekspor barang dan jasa",155183.8
+2001,"Q3","Impor barang dan jasa  (dalam angka negatif)",-113949.1
+2001,"Q4","Konsumsi - Rumah tangga",290285.6
+2001,"Q4","Konsumsi - Pemerintah",32823.5
+2001,"Q4","Pembentukan Modal Tetap Domestik Bruto",81819.7
+2001,"Q4","Perubahan Inventori",-1816.7
+2001,"Q4","Diskrepansi Statistik",-23257.77
+2001,"Q4","Ekspor barang dan jasa",145523.4
+2001,"Q4","Impor barang dan jasa  (dalam angka negatif)",-108602.7
+2002,"Q1","Konsumsi - Rumah tangga",291698.9
+2002,"Q1","Konsumsi - Pemerintah",28957.3
+2002,"Q1","Pembentukan Modal Tetap Domestik Bruto",84741.8
+2002,"Q1","Perubahan Inventori",25627.5
+2002,"Q1","Diskrepansi Statistik",-27105.21
+2002,"Q1","Ekspor barang dan jasa",149448.4
+2002,"Q1","Impor barang dan jasa  (dalam angka negatif)",-116393.6
+2002,"Q2","Konsumsi - Rumah tangga",301406.2
+2002,"Q2","Konsumsi - Pemerintah",30423.8
+2002,"Q2","Pembentukan Modal Tetap Domestik Bruto",85048.3
+2002,"Q2","Perubahan Inventori",-1188.1
+2002,"Q2","Diskrepansi Statistik",2530.73
+2002,"Q2","Ekspor barang dan jasa",147360.6
+2002,"Q2","Impor barang dan jasa  (dalam angka negatif)",-114941.1
+2002,"Q3","Konsumsi - Rumah tangga",307413.1
+2002,"Q3","Konsumsi - Pemerintah",34048.7
+2002,"Q3","Pembentukan Modal Tetap Domestik Bruto",89858
+2002,"Q3","Perubahan Inventori",4755.4
+2002,"Q3","Diskrepansi Statistik",4840.08
+2002,"Q3","Ekspor barang dan jasa",153041
+2002,"Q3","Impor barang dan jasa  (dalam angka negatif)",-121820.2
+2002,"Q4","Konsumsi - Rumah tangga",331446.3
+2002,"Q4","Konsumsi - Pemerintah",38789
+2002,"Q4","Pembentukan Modal Tetap Domestik Bruto",94318.9
+2002,"Q4","Perubahan Inventori",6784.7
+2002,"Q4","Diskrepansi Statistik",-27260.62
+2002,"Q4","Ekspor barang dan jasa",145664
+2002,"Q4","Impor barang dan jasa  (dalam angka negatif)",-127660.5
+2003,"Q1","Konsumsi - Rumah tangga",336223.1
+2003,"Q1","Konsumsi - Pemerintah",33004.7
+2003,"Q1","Pembentukan Modal Tetap Domestik Bruto",93222.44
+2003,"Q1","Perubahan Inventori",56268
+2003,"Q1","Diskrepansi Statistik",-59845.91
+2003,"Q1","Ekspor barang dan jasa",155585.5
+2003,"Q1","Impor barang dan jasa  (dalam angka negatif)",-118210
+2003,"Q2","Konsumsi - Rumah tangga",331552.9
+2003,"Q2","Konsumsi - Pemerintah",37698.9
+2003,"Q2","Pembentukan Modal Tetap Domestik Bruto",94317.29
+2003,"Q2","Perubahan Inventori",15056.3
+2003,"Q2","Diskrepansi Statistik",-25756.09
+2003,"Q2","Ekspor barang dan jasa",155576.8
+2003,"Q2","Impor barang dan jasa  (dalam angka negatif)",-110422.3
+2003,"Q3","Konsumsi - Rumah tangga",347296.2
+2003,"Q3","Konsumsi - Pemerintah",42811.4
+2003,"Q3","Pembentukan Modal Tetap Domestik Bruto",100649.8
+2003,"Q3","Perubahan Inventori",55772.8
+2003,"Q3","Diskrepansi Statistik",-66098.45
+2003,"Q3","Ekspor barang dan jasa",151680
+2003,"Q3","Impor barang dan jasa  (dalam angka negatif)",-116008.1
+2003,"Q4","Konsumsi - Rumah tangga",357005.8
+2003,"Q4","Konsumsi - Pemerintah",50186.4
+2003,"Q4","Pembentukan Modal Tetap Domestik Bruto",104599
+2003,"Q4","Perubahan Inventori",-4415.2
+2003,"Q4","Diskrepansi Statistik",-33654.67
+2003,"Q4","Ekspor barang dan jasa",150878.4
+2003,"Q4","Impor barang dan jasa  (dalam angka negatif)",-121300.5
+2004,"Q1","Konsumsi - Rumah tangga",364076.9
+2004,"Q1","Konsumsi - Pemerintah",43143.25
+2004,"Q1","Pembentukan Modal Tetap Domestik Bruto",115823.1
+2004,"Q1","Perubahan Inventori",4487.23
+2004,"Q1","Diskrepansi Statistik",-8738.95
+2004,"Q1","Ekspor barang dan jasa",156391.5
+2004,"Q1","Impor barang dan jasa  (dalam angka negatif)",-138577.8
+2004,"Q2","Konsumsi - Rumah tangga",377031.3
+2004,"Q2","Konsumsi - Pemerintah",47614.28
+2004,"Q2","Pembentukan Modal Tetap Domestik Bruto",122936.7
+2004,"Q2","Perubahan Inventori",9386.55
+2004,"Q2","Diskrepansi Statistik",-17945.83
+2004,"Q2","Ekspor barang dan jasa",173793.9
+2004,"Q2","Impor barang dan jasa  (dalam angka negatif)",-148394.8
+2004,"Q3","Konsumsi - Rumah tangga",387492.3
+2004,"Q3","Konsumsi - Pemerintah",45695.92
+2004,"Q3","Pembentukan Modal Tetap Domestik Bruto",135625.1
+2004,"Q3","Perubahan Inventori",8734.16
+2004,"Q3","Diskrepansi Statistik",-17117.17
+2004,"Q3","Ekspor barang dan jasa",202990.4
+2004,"Q3","Impor barang dan jasa  (dalam angka negatif)",-168100.1
+2004,"Q4","Konsumsi - Rumah tangga",404287.8
+2004,"Q4","Konsumsi - Pemerintah",54602.18
+2004,"Q4","Pembentukan Modal Tetap Domestik Bruto",140996.3
+2004,"Q4","Perubahan Inventori",14303.2
+2004,"Q4","Diskrepansi Statistik",-43871.31
+2004,"Q4","Ekspor barang dan jasa",206463.5
+2004,"Q4","Impor barang dan jasa  (dalam angka negatif)",-177303.5
+2005,".Q","Konsumsi - Rumah tangga",418418.7
+2005,".Q","Konsumsi - Pemerintah",42692.31
+2005,".Q","Pembentukan Modal Tetap Domestik Bruto",146356.7
+2005,".Q","Perubahan Inventori",21194.27
+2005,".Q","Diskrepansi Statistik",-16291.51
+2005,".Q","Ekspor barang dan jasa",208629.6
+2005,".Q","Impor barang dan jasa  (dalam angka negatif)",-188669.5
+2005,"Q2","Konsumsi - Rumah tangga",429651.8
+2005,"Q2","Konsumsi - Pemerintah",46593.45
+2005,"Q2","Pembentukan Modal Tetap Domestik Bruto",159526
+2005,"Q2","Perubahan Inventori",23806.32
+2005,"Q2","Diskrepansi Statistik",-18092.48
+2005,"Q2","Ekspor barang dan jasa",225599.7
+2005,"Q2","Impor barang dan jasa  (dalam angka negatif)",-196609.3
+2005,"Q3","Konsumsi - Rumah tangga",447742.2
+2005,"Q3","Konsumsi - Pemerintah",58016.83
+2005,"Q3","Pembentukan Modal Tetap Domestik Bruto",168097.4
+2005,"Q3","Perubahan Inventori",18154.42
+2005,"Q3","Diskrepansi Statistik",-5049.68
+2005,"Q3","Ekspor barang dan jasa",250784.8
+2005,"Q3","Impor barang dan jasa  (dalam angka negatif)",-224745.8
+2005,"Q4","Konsumsi - Rumah tangga",489783.7
+2005,"Q4","Konsumsi - Pemerintah",77677.95
+2005,"Q4","Pembentukan Modal Tetap Domestik Bruto",181874.2
+2005,"Q4","Perubahan Inventori",-23180.45
+2005,"Q4","Diskrepansi Statistik",-7729.31
+2005,"Q4","Ekspor barang dan jasa",260107.7
+2005,"Q4","Impor barang dan jasa  (dalam angka negatif)",-220058.8
+2006,"Q1","Konsumsi - Rumah tangga",494921.1
+2006,"Q1","Konsumsi - Pemerintah",55164.1
+2006,"Q1","Pembentukan Modal Tetap Domestik Bruto",186273.8
+2006,"Q1","Perubahan Inventori",32312.8
+2006,"Q1","Diskrepansi Statistik",-28459.47
+2006,"Q1","Ekspor barang dan jasa",237336.6
+2006,"Q1","Impor barang dan jasa  (dalam angka negatif)",-194796
+2006,"Q2","Konsumsi - Rumah tangga",506256.5
+2006,"Q2","Konsumsi - Pemerintah",70548.52
+2006,"Q2","Pembentukan Modal Tetap Domestik Bruto",196502.1
+2006,"Q2","Perubahan Inventori",14538.2
+2006,"Q2","Diskrepansi Statistik",-10331.03
+2006,"Q2","Ekspor barang dan jasa",249868.6
+2006,"Q2","Impor barang dan jasa  (dalam angka negatif)",-214641.8
+2006,"Q3","Konsumsi - Rumah tangga",520482.7
+2006,"Q3","Konsumsi - Pemerintah",72456.75
+2006,"Q3","Pembentukan Modal Tetap Domestik Bruto",208066.9
+2006,"Q3","Perubahan Inventori",20090.3
+2006,"Q3","Diskrepansi Statistik",6110.36
+2006,"Q3","Ekspor barang dan jasa",269957
+2006,"Q3","Impor barang dan jasa  (dalam angka negatif)",-226844.2
+2006,"Q4","Konsumsi - Rumah tangga",570995.4
+2006,"Q4","Konsumsi - Pemerintah",89910.51
+2006,"Q4","Pembentukan Modal Tetap Domestik Bruto",214943.4
+2006,"Q4","Perubahan Inventori",-24559.1
+2006,"Q4","Diskrepansi Statistik",-37735.55
+2006,"Q4","Ekspor barang dan jasa",279154.3
+2006,"Q4","Impor barang dan jasa  (dalam angka negatif)",-219305.9
+2007,"Q1","Konsumsi - Rumah tangga",581272.1
+2007,"Q1","Konsumsi - Pemerintah",66577.26
+2007,"Q1","Pembentukan Modal Tetap Domestik Bruto",220498.9
+2007,"Q1","Perubahan Inventori",-2049.6
+2007,"Q1","Diskrepansi Statistik",10828.7
+2007,"Q1","Ekspor barang dan jasa",262611
+2007,"Q1","Impor barang dan jasa  (dalam angka negatif)",-219535.3
+2007,"Q2","Konsumsi - Rumah tangga",610560.1
+2007,"Q2","Konsumsi - Pemerintah",82726.82
+2007,"Q2","Pembentukan Modal Tetap Domestik Bruto",234278.4
+2007,"Q2","Perubahan Inventori",3717.1
+2007,"Q2","Diskrepansi Statistik",-8056.57
+2007,"Q2","Ekspor barang dan jasa",282402.6
+2007,"Q2","Impor barang dan jasa  (dalam angka negatif)",-241765.9
+2007,"Q3","Konsumsi - Rumah tangga",637456.6
+2007,"Q3","Konsumsi - Pemerintah",80581.21
+2007,"Q3","Pembentukan Modal Tetap Domestik Bruto",254265.3
+2007,"Q3","Perubahan Inventori",8736.5
+2007,"Q3","Diskrepansi Statistik",16515.22
+2007,"Q3","Ekspor barang dan jasa",299651.4
+2007,"Q3","Impor barang dan jasa  (dalam angka negatif)",-265797.6
+2007,"Q4","Konsumsi - Rumah tangga",681215
+2007,"Q4","Konsumsi - Pemerintah",99874.81
+2007,"Q4","Pembentukan Modal Tetap Domestik Bruto",276584.5
+2007,"Q4","Perubahan Inventori",-11457.3
+2007,"Q4","Diskrepansi Statistik",-52934.35
+2007,"Q4","Ekspor barang dan jasa",318308.8
+2007,"Q4","Impor barang dan jasa  (dalam angka negatif)",-276172.5
+2008,"Q1","Konsumsi - Rumah tangga",700227.7
+2008,"Q1","Konsumsi - Pemerintah",76724.1
+2008,"Q1","Pembentukan Modal Tetap Domestik Bruto",291507.8
+2008,"Q1","Perubahan Inventori",7490.3
+2008,"Q1","Diskrepansi Statistik",-3741.1
+2008,"Q1","Ekspor barang dan jasa",346596.2
+2008,"Q1","Impor barang dan jasa  (dalam angka negatif)",-308772.7
+2008,"Q2","Konsumsi - Rumah tangga",734874
+2008,"Q2","Konsumsi - Pemerintah",104994.5
+2008,"Q2","Pembentukan Modal Tetap Domestik Bruto",327695.4
+2008,"Q2","Perubahan Inventori",1978.7
+2008,"Q2","Diskrepansi Statistik",44781.1
+2008,"Q2","Ekspor barang dan jasa",377603.3
+2008,"Q2","Impor barang dan jasa  (dalam angka negatif)",-371321.1
+2008,"Q3","Konsumsi - Rumah tangga",772060.9
+2008,"Q3","Konsumsi - Pemerintah",106037.6
+2008,"Q3","Pembentukan Modal Tetap Domestik Bruto",369355
+2008,"Q3","Perubahan Inventori",4012.2
+2008,"Q3","Diskrepansi Statistik",80511.6
+2008,"Q3","Ekspor barang dan jasa",384468.2
+2008,"Q3","Impor barang dan jasa  (dalam angka negatif)",-388936
+2008,"Q4","Konsumsi - Rumah tangga",792794.3
+2008,"Q4","Konsumsi - Pemerintah",129110.4
+2008,"Q4","Pembentukan Modal Tetap Domestik Bruto",382158.8
+2008,"Q4","Perubahan Inventori",-7658.9
+2008,"Q4","Diskrepansi Statistik",-18443.1
+2008,"Q4","Ekspor barang dan jasa",366451.4
+2008,"Q4","Impor barang dan jasa  (dalam angka negatif)",-353872.3
+2009,"Q1","Konsumsi - Rumah tangga",801986
+2009,"Q1","Konsumsi - Pemerintah",99642
+2009,"Q1","Pembentukan Modal Tetap Domestik Bruto",400704
+2009,"Q1","Perubahan Inventori",-8270
+2009,"Q1","Diskrepansi Statistik",-19618
+2009,"Q1","Ekspor barang dan jasa",308162
+2009,"Q1","Impor barang dan jasa  (dalam angka negatif)",-267335
+2009,"Q2","Konsumsi - Rumah tangga",805849
+2009,"Q2","Konsumsi - Pemerintah",135191
+2009,"Q2","Pembentukan Modal Tetap Domestik Bruto",423708
+2009,"Q2","Perubahan Inventori",3649
+2009,"Q2","Diskrepansi Statistik",-27174
+2009,"Q2","Ekspor barang dan jasa",323206
+2009,"Q2","Impor barang dan jasa  (dalam angka negatif)",-283020
+2009,"Q3","Konsumsi - Rumah tangga",833151
+2009,"Q3","Konsumsi - Pemerintah",129078
+2009,"Q3","Pembentukan Modal Tetap Domestik Bruto",454015
+2009,"Q3","Perubahan Inventori",8471
+2009,"Q3","Diskrepansi Statistik",14490
+2009,"Q3","Ekspor barang dan jasa",341860
+2009,"Q3","Impor barang dan jasa  (dalam angka negatif)",-322856
+2009,"Q4","Konsumsi - Rumah tangga",850010
+2009,"Q4","Konsumsi - Pemerintah",173677
+2009,"Q4","Pembentukan Modal Tetap Domestik Bruto",465930
+2009,"Q4","Perubahan Inventori",-11114
+2009,"Q4","Diskrepansi Statistik",-84489
+2009,"Q4","Ekspor barang dan jasa",381182
+2009,"Q4","Impor barang dan jasa  (dalam angka negatif)",-323882
+2010,"Q1","Konsumsi - Rumah tangga",865662.8
+2010,"Q1","Konsumsi - Pemerintah",100512.7
+2010,"Q1","Pembentukan Modal Tetap Domestik Bruto",468941.8
+2010,"Q1","Perubahan Inventori",13201.78
+2010,"Q1","Diskrepansi Statistik",24115.5
+2010,"Q1","Ekspor barang dan jasa",363104.8
+2010,"Q1","Impor barang dan jasa  (dalam angka negatif)",-329682.4
+2010,"Q2","Konsumsi - Rumah tangga",891163.8
+2010,"Q2","Konsumsi - Pemerintah",136124.2
+2010,"Q2","Pembentukan Modal Tetap Domestik Bruto",498150.6
+2010,"Q2","Perubahan Inventori",15501.6
+2010,"Q2","Diskrepansi Statistik",28868.27
+2010,"Q2","Ekspor barang dan jasa",374567.6
+2010,"Q2","Impor barang dan jasa  (dalam angka negatif)",-355528.3
+2010,"Q3","Konsumsi - Rumah tangga",936136.3
+2010,"Q3","Konsumsi - Pemerintah",148125.9
+2010,"Q3","Pembentukan Modal Tetap Domestik Bruto",542283
+2010,"Q3","Perubahan Inventori",20408.94
+2010,"Q3","Diskrepansi Statistik",16956.7
+2010,"Q3","Ekspor barang dan jasa",384924.9
+2010,"Q3","Impor barang dan jasa  (dalam angka negatif)",-378268.7
+2010,"Q4","Konsumsi - Rumah tangga",950462.1
+2010,"Q4","Konsumsi - Pemerintah",202520
+2010,"Q4","Pembentukan Modal Tetap Domestik Bruto",555618.8
+2010,"Q4","Perubahan Inventori",-30747.9
+2010,"Q4","Diskrepansi Statistik",-45208.48
+2010,"Q4","Ekspor barang dan jasa",462076.5
+2010,"Q4","Impor barang dan jasa  (dalam angka negatif)",-413140.9
+2011,"Q1","Konsumsi - Rumah tangga",964390.3
+2011,"Q1","Konsumsi - Pemerintah",118667.5
+2011,"Q1","Pembentukan Modal Tetap Domestik Bruto",543834.4
+2011,"Q1","Perubahan Inventori",33510.78
+2011,"Q1","Diskrepansi Statistik",53989.84
+2011,"Q1","Ekspor barang dan jasa",442141.8
+2011,"Q1","Impor barang dan jasa  (dalam angka negatif)",-405909.2
+2011,"Q2","Konsumsi - Rumah tangga",983673.2
+2011,"Q2","Konsumsi - Pemerintah",149636.2
+2011,"Q2","Pembentukan Modal Tetap Domestik Bruto",567420.3
+2011,"Q2","Perubahan Inventori",31533.8
+2011,"Q2","Diskrepansi Statistik",47829.33
+2011,"Q2","Ekspor barang dan jasa",495041.1
+2011,"Q2","Impor barang dan jasa  (dalam angka negatif)",-454983.6
+2011,"Q3","Konsumsi - Rumah tangga",1042226
+2011,"Q3","Konsumsi - Pemerintah",176257.9
+2011,"Q3","Pembentukan Modal Tetap Domestik Bruto",612216.3
+2011,"Q3","Perubahan Inventori",25527.69
+2011,"Q3","Diskrepansi Statistik",46823.32
+2011,"Q3","Ekspor barang dan jasa",506434.2
+2011,"Q3","Impor barang dan jasa  (dalam angka negatif)",-479871.8
+2011,"Q4","Konsumsi - Rumah tangga",1063074
+2011,"Q4","Konsumsi - Pemerintah",224021.3
+2011,"Q4","Pembentukan Modal Tetap Domestik Bruto",649294.8
+2011,"Q4","Perubahan Inventori",-19798.11
+2011,"Q4","Diskrepansi Statistik",3901.69
+2011,"Q4","Ekspor barang dan jasa",512203.9
+2011,"Q4","Impor barang dan jasa  (dalam angka negatif)",-510305.8
+2012,"Q1","Konsumsi - Rumah tangga",1072084
+2012,"Q1","Konsumsi - Pemerintah",137975.8
+2012,"Q1","Pembentukan Modal Tetap Domestik Bruto",629406.5
+2012,"Q1","Perubahan Inventori",86238.41
+2012,"Q1","Diskrepansi Statistik",46761.41
+2012,"Q1","Ekspor barang dan jasa",491164.5
+2012,"Q1","Impor barang dan jasa  (dalam angka negatif)",-488155.2
+2012,"Q2","Konsumsi - Rumah tangga",1097070
+2012,"Q2","Konsumsi - Pemerintah",185933.6
+2012,"Q2","Pembentukan Modal Tetap Domestik Bruto",671625.9
+2012,"Q2","Perubahan Inventori",70428.69
+2012,"Q2","Diskrepansi Statistik",70823.74
+2012,"Q2","Ekspor barang dan jasa",501518.4
+2012,"Q2","Impor barang dan jasa  (dalam angka negatif)",-546353.2
+2012,"Q3","Konsumsi - Rumah tangga",1152846
+2012,"Q3","Konsumsi - Pemerintah",175513.4
+2012,"Q3","Pembentukan Modal Tetap Domestik Bruto",702487.2
+2012,"Q3","Perubahan Inventori",24706.97
+2012,"Q3","Diskrepansi Statistik",77839.63
+2012,"Q3","Ekspor barang dan jasa",492198.5
+2012,"Q3","Impor barang dan jasa  (dalam angka negatif)",-505943
+2012,"Q4","Konsumsi - Rumah tangga",1174374
+2012,"Q4","Konsumsi - Pemerintah",232922.2
+2012,"Q4","Pembentukan Modal Tetap Domestik Bruto",729660.9
+2012,"Q4","Perubahan Inventori",-3184.2
+2012,"Q4","Diskrepansi Statistik",34515.71
+2012,"Q4","Ekspor barang dan jasa",514498.5
+2012,"Q4","Impor barang dan jasa  (dalam angka negatif)",-587093.4
+2013,"Q1","Konsumsi - Rumah tangga",1195107
+2013,"Q1","Konsumsi - Pemerintah",146208.4
+2013,"Q1","Pembentukan Modal Tetap Domestik Bruto",684676.8
+2013,"Q1","Perubahan Inventori",73132.97
+2013,"Q1","Diskrepansi Statistik",72375.11
+2013,"Q1","Ekspor barang dan jasa",502040.9
+2013,"Q1","Impor barang dan jasa  (dalam angka negatif)",-525040.4
+2013,"Q2","Konsumsi - Rumah tangga",1227188
+2013,"Q2","Konsumsi - Pemerintah",190662.6
+2013,"Q2","Pembentukan Modal Tetap Domestik Bruto",733479.3
+2013,"Q2","Perubahan Inventori",90040.07
+2013,"Q2","Diskrepansi Statistik",35357.45
+2013,"Q2","Ekspor barang dan jasa",511645
+2013,"Q2","Impor barang dan jasa  (dalam angka negatif)",-568517.1
+2013,"Q3","Konsumsi - Rumah tangga",1314173
+2013,"Q3","Konsumsi - Pemerintah",214992.9
+2013,"Q3","Pembentukan Modal Tetap Domestik Bruto",792563.3
+2013,"Q3","Perubahan Inventori",25095.84
+2013,"Q3","Diskrepansi Statistik",76568.57
+2013,"Q3","Ekspor barang dan jasa",526139.9
+2013,"Q3","Impor barang dan jasa  (dalam angka negatif)",-574202.3
