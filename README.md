@@ -1,4 +1,7 @@
 
+[![Travis build
+status](https://travis-ci.org/aswansyahputra/nusandata.svg?branch=master)](https://travis-ci.org/aswansyahputra/nusandata)
+
 # nusandata
 
 Paket `nusandata` ini bertujuan untuk menghimpun data dari [Portal Satu
