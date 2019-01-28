@@ -1,6 +1,7 @@
 # Mengaktifkan paket ------------------------------------------------------
-library(tidyverse)
 
+library(tidyverse)
+library(usethis)
 
 #  Tingkat Pendidikan Anak Miskin -----------------------------------------
 

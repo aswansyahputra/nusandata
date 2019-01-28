@@ -1,6 +1,7 @@
-# Mmrtaktifkan paket ------------------------------------------------------
-library(tidyverse)
+# Mengaktifkan paket ------------------------------------------------------
 
+library(tidyverse)
+library(usethis)
 
 # Total Nilai dan Berat Ekspor berdasarkan Pelabuhan per Bulan ------------
 
