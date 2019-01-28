@@ -4,7 +4,13 @@
 \name{sht_tpa_tinja}
 \alias{sht_tpa_tinja}
 \title{Tempat Pembuangan Akhir Tinja Rumah Tangga Miskin}
-\format{An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 66 rows and 3 columns.}
+\format{Dataframe dengan 66 baris dan 3 kolom
+
+\describe{
+  \item{nama_provinsi}{Nama Provinsi}
+  \item{pembuangan_akhir_tinja}{Tipe dari Pembuangan Akhir Tinja}
+  \item{jumlah_rumah_tangga}{Jumlah Rumah Tangga dengan tipe Pembuangan Akhir Tinja tersebut }
+}}
 \source{
 Portal Satu Data Indonesia \url{https://data.go.id/dataset/tempat-pembuangan-akhir-tinja-rumah-tangga-miskin}
 }

@@ -7,7 +7,7 @@
 #' \describe{
 #'   \item{nama_provinsi}{Nama Provinsi}
 #'   \item{pembuangan_akhir_tinja}{Tipe dari Pembuangan Akhir Tinja}
-#'   \item{jumlah_rumah_tangga}{Jumlah Rumah Tangga dengan tipe Pembuangan} Akhir Tinja tersebut }
+#'   \item{jumlah_rumah_tangga}{Jumlah Rumah Tangga dengan tipe Pembuangan Akhir Tinja tersebut }
 #' }
 #'
 #' @source Portal Satu Data Indonesia \url{https://data.go.id/dataset/tempat-pembuangan-akhir-tinja-rumah-tangga-miskin}

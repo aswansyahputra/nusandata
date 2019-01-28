@@ -8,7 +8,7 @@
 #'   \item{nama_provinsi}{Nama Provinsi}
 #'   \item{tingkat_pendidikan}{Tingkat Pendidikan (SD/MI/SMP/MT/SMA/MA/Perguruan Tinggi)}
 #'   \item{jenis_kelamin}{Jenis Kelamin}
-#'   \item{jumlah_individu}{Jumlah dari Anak dengan Tingkat Pendidikan dan} Jenis Kelamin tersebut }
+#'   \item{jumlah_individu}{Jumlah dari Anak dengan Tingkat Pendidikan dan Jenis Kelamin tersebut }
 #' }
 #'
 #' @source Portal Satu Data Indonesia \url{https://data.go.id/dataset/tingkat-pendidikan-anak-miskin}

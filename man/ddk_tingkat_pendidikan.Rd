@@ -4,7 +4,14 @@
 \name{ddk_tingkat_pendidikan}
 \alias{ddk_tingkat_pendidikan}
 \title{Tingkat Pendidikan Anak Miskin}
-\format{An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 462 rows and 4 columns.}
+\format{Dataframe dengan 462 baris dan 4 kolom
+
+\describe{
+  \item{nama_provinsi}{Nama Provinsi}
+  \item{tingkat_pendidikan}{Tingkat Pendidikan (SD/MI/SMP/MT/SMA/MA/Perguruan Tinggi)}
+  \item{jenis_kelamin}{Jenis Kelamin}
+  \item{jumlah_individu}{Jumlah dari Anak dengan Tingkat Pendidikan dan Jenis Kelamin tersebut }
+}}
 \source{
 Portal Satu Data Indonesia \url{https://data.go.id/dataset/tingkat-pendidikan-anak-miskin}
 }
