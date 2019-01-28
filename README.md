@@ -35,22 +35,29 @@ dari kategori data, yaitu sebagai berikut:
 Beberapa dataset yang telah tersedia adalah sebagai
 berikut:
 
-| Data                          | Description                                                  |
-| :---------------------------- | :----------------------------------------------------------- |
-| ddk\_sd\_putus\_sekolah       | Siswa Sekolah Dasar yang Putus Sekolah                       |
-| ddk\_sma\_putus\_sekolah      | Siswa Sekolah Menengah Atas yang Putus Sekolah               |
-| ddk\_smk\_putus\_sekolah      | Siswa Sekolah Menengah Kejuruan yang Putus Sekolah           |
-| ddk\_smp\_putus\_sekolah      | Siswa Sekolah Menengah Pertama yang Putus Sekolah            |
-| ddk\_tingkat\_pendidikan      | Tingkat Pendidikan Anak Miskin                               |
-| eng\_domestik\_batubara       | Penjualan Domestik Batu Bara                                 |
-| eng\_ekspor\_mineral          | Hasil Ekspor Mineral                                         |
-| ifr\_kecelakaan\_transportasi | Data Kecelakaan Transportasi                                 |
-| mrt\_ekspor                   | Total Nilai dan Berat Ekspor berdasarkan Pelabuhan per Bulan |
-| mrt\_impor                    | Total Nilai dan Berat Impor berdasarkan Pelabuhan per Bulan  |
-| pgn\_kekeringan               | Data Bencana Kekeringan                                      |
-| pgn\_rttani                   | Jumlah Rumah Tangga Usaha Tani                               |
-| sht\_jamban                   | Status Kepemilikan Fasilitas Tempat Buang Air Besar          |
-| sht\_tpa\_tinja               | Tempat Pembuangan Akhir Tinja Rumah Tangga Miskin            |
+| Data                          | Description                                                                     |
+| :---------------------------- | :------------------------------------------------------------------------------ |
+| brk\_haji                     | Daftar Tunggu Haji                                                              |
+| brk\_pengadaan\_lembaga       | Capaian dari Pengadaan Kementerian Lembaga                                      |
+| brk\_pengadaan\_provinsi      | Capaian dari Pengadaan Pemerintah Provinsi                                      |
+| ddk\_sd\_putus\_sekolah       | Siswa Sekolah Dasar yang Putus Sekolah                                          |
+| ddk\_sma\_putus\_sekolah      | Siswa Sekolah Menengah Atas yang Putus Sekolah                                  |
+| ddk\_smk\_putus\_sekolah      | Siswa Sekolah Menengah Kejuruan yang Putus Sekolah                              |
+| ddk\_smp\_putus\_sekolah      | Siswa Sekolah Menengah Pertama yang Putus Sekolah                               |
+| ddk\_tingkat\_pendidikan      | Tingkat Pendidikan Anak Miskin                                                  |
+| eko\_produk\_domestik\_bruto  | Produk Domestik Bruto (PDB) Indonesia berdasarkan Pengeluaran dan Harga Berlaku |
+| eko\_realisasi\_apbn          | Belanja Pemerintah Indonesia berdasarkan Realisasi APBN                         |
+| eng\_domestik\_batubara       | Penjualan Domestik Batu Bara                                                    |
+| eng\_ekspor\_mineral          | Hasil Ekspor Mineral                                                            |
+| ids\_kecelakaan               | Data Kecelakaan Industri                                                        |
+| ids\_umkm                     | Perkembangan Usaha Mikro Kecil dan Menengah (UMKM)                              |
+| ifr\_kecelakaan\_transportasi | Data Kecelakaan Transportasi                                                    |
+| mrt\_ekspor                   | Total Nilai dan Berat Ekspor berdasarkan Pelabuhan per Bulan                    |
+| mrt\_impor                    | Total Nilai dan Berat Impor berdasarkan Pelabuhan per Bulan                     |
+| pgn\_kekeringan               | Data Bencana Kekeringan                                                         |
+| pgn\_rttani                   | Jumlah Rumah Tangga Usaha Tani                                                  |
+| sht\_jamban                   | Status Kepemilikan Fasilitas Tempat Buang Air Besar                             |
+| sht\_tpa\_tinja               | Tempat Pembuangan Akhir Tinja Rumah Tangga Miskin                               |
 
 atau jalankan kode `data(package = "nusandata")` untuk mendapatkan
 daftar dataset yang telah tersedia di `nusandata`.
