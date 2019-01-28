@@ -26,18 +26,28 @@ Dataset disajikan dengan format `kode_data`. `kode` merupakan singkatan dari kat
 
 * `pgn` Pangan
 * `eng` Energi
+* `ifr` Infrastruktur
 * `mrt` Maritim
 * `sht` Kesehatan
 * `ddk` Pendidikan
+* `eko` Ekonomi dan Keuangan
+* `ids` Industri
+* `wst` Pariwisata
+* `brk` Reformasi Birokrasi
 
 ## Dataset tersedia
-Dataset yang telah tersedia dapat dilihat dengan menjalankan kode `data(package = "nusandata")`.
+Beberapa dataset yang telah tersedia adalah sebagai berikut:
 
-
-```{r}
-data(package = "nusandata")
+```{r, echo = FALSE}
+knitr::kable(
+  pacman::p_data(package = "nusandata")
+)
 ```
 
+atau jalankan kode `data(package = "nusandata")` untuk mendapatkan daftar dataset yang telah tersedia di `nusandata`.
+
+## Ucapan terimakasih
+Proyek ini dapat terlaksana atas upaya data terbuka yang tersaji di [Portal Satu Data Indonesia](https://data.go.id).
 
 ## Code of conduct
 Please note that the `nusandata` project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
