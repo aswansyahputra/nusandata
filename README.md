@@ -3,6 +3,9 @@
 
 [![Travis build
 status](https://travis-ci.org/aswansyahputra/nusandata.svg?branch=master)](https://travis-ci.org/aswansyahputra/nusandata)
+[![Coverage
+status](https://codecov.io/gh/aswansyahputra/nusandata/branch/master/graph/badge.svg)](https://codecov.io/github/aswansyahputra/nusandata?branch=master)
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 Paket `nusandata` ini bertujuan untuk menghimpun data dari [Portal Satu
 Data Indonesia](https://data.go.id/) dan membuatnya agar dapat digunakan
