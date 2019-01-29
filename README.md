@@ -37,9 +37,9 @@ berikut:
 
 | Data                          | Description                                                                     |
 | :---------------------------- | :------------------------------------------------------------------------------ |
+| brk\_capaian\_lembaga         | Capaian dari Pengadaan Kementerian Lembaga                                      |
+| brk\_capaian\_provinsi        | Capaian dari Pengadaan Pemerintah Provinsi                                      |
 | brk\_haji                     | Daftar Tunggu Haji                                                              |
-| brk\_pengadaan\_lembaga       | Capaian dari Pengadaan Kementerian Lembaga                                      |
-| brk\_pengadaan\_provinsi      | Capaian dari Pengadaan Pemerintah Provinsi                                      |
 | ddk\_sd\_putus\_sekolah       | Siswa Sekolah Dasar yang Putus Sekolah                                          |
 | ddk\_sma\_putus\_sekolah      | Siswa Sekolah Menengah Atas yang Putus Sekolah                                  |
 | ddk\_smk\_putus\_sekolah      | Siswa Sekolah Menengah Kejuruan yang Putus Sekolah                              |

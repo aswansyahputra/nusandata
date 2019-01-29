@@ -32,7 +32,7 @@
 #' }
 #'
 #' @source Portal Satu Data Indonesia \url{https://data.go.id/dataset/capaian-dari-pengadaan-kementerian-lembaga}
-"brk_pengadaan_lembaga"
+"brk_capaian_lembaga"
 
 #'  Capaian dari Pengadaan Pemerintah Provinsi
 #'
@@ -51,4 +51,4 @@
 #' }
 #'
 #' @source Portal Satu Data Indonesia \url{https://data.go.id/dataset/capaian-dari-pengadaan-pemerintah-provinsi}
-"brk_pengadaan_provinsi"
+"brk_capaian_provinsi"
