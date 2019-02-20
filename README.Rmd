@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 
 
-Paket `nusandata` ini bertujuan untuk menghimpun data dari [Portal Satu Data Indonesia](https://data.go.id/) dan membuatnya agar dapat digunakan sebagai paket di R.
+Paket `nusandata` ini bertujuan untuk menghimpun data tentang Indonesia dari berbagai sumber dan membuatnya agar dapat digunakan sebagai paket di R.
 
 ## Cara pemasangan
 
@@ -39,6 +39,7 @@ Dataset disajikan dengan format `kode_data`. `kode` merupakan singkatan dari kat
 * `ids` Industri
 * `wst` Pariwisata
 * `brk` Reformasi Birokrasi
+* `tks` Data Teks
 
 ## Dataset tersedia
 Beberapa dataset yang telah tersedia adalah sebagai berikut:
@@ -52,7 +53,10 @@ knitr::kable(
 atau jalankan kode `data(package = "nusandata")` untuk mendapatkan daftar dataset yang telah tersedia di `nusandata`.
 
 ## Ucapan terimakasih
-Proyek ini dapat terlaksana atas upaya data terbuka yang tersaji di [Portal Satu Data Indonesia](https://data.go.id).
+Proyek ini dapat terlaksana atas upaya data terbuka yang tersaji di [Portal Satu Data Indonesia](https://data.go.id) dan [BahasaKita](https://bahasakita.co.id).
 
-## Code of conduct
-Please note that the `nusandata` project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
+## Lisensi
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
