@@ -1,12 +1,12 @@
 Package: nusandata
-Title: Kumpulan Data dari Portal Satu Data Indonesia
+Title: Kumpulan Data Indonesia
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Muhammad Aswan",
            family = "Syahputra",
            role = c("aut", "cre"),
            email = "aswansyahputra@sensolution.id")
-Description: Bertujuan untuk menghimpun data dari Portal Satu Data Indonesia dan membuatnya agar dapat digunakan sebagai paket di R.
+Description: Bertujuan untuk menghimpun data tentang Indonesia dari berbagai sumber dan membuatnya agar dapat digunakan sebagai paket di R.
 Encoding: UTF-8
 LazyData: true
 Depends:
