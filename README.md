@@ -14,7 +14,7 @@ di R.
 ## Cara pemasangan
 
 ``` r
-devtools::install_github("aswansyahputra/nusandata")
+remotes::install_github("aswansyahputra/nusandata")
 ```
 
 ## Penamaan dataset

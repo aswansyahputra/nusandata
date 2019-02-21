@@ -23,7 +23,7 @@ Paket `nusandata` ini bertujuan untuk menghimpun data tentang Indonesia dari ber
 ## Cara pemasangan
 
 ``` r
-devtools::install_github("aswansyahputra/nusandata")
+remotes::install_github("aswansyahputra/nusandata")
 ```
 
 ## Penamaan dataset
